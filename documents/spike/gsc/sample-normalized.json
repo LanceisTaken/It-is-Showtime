@@ -1,0 +1,322 @@
+﻿[
+    {
+        "movie_title":  "(4DX) The Odyssey",
+        "cinema_name":  "GSC 1 Utama",
+        "date":  "2026-07-19",
+        "time":  "10:00PM",
+        "format":  "4DX - 4DX",
+        "booking_url":  "https://epaymentwebapp.gsc.com.my/seat-selection?parentID=5116\u0026oprndate=2026-07-19\u0026locationID=260\u0026childCode=1000005029\u0026showID=614815\u0026hallGroup="
+    },
+    {
+        "movie_title":  "(Big) The Odyssey",
+        "cinema_name":  "GSC 1 Utama",
+        "date":  "2026-07-19",
+        "time":  "8:15PM",
+        "format":  "BIG - Big",
+        "booking_url":  "https://epaymentwebapp.gsc.com.my/seat-selection?parentID=5116\u0026oprndate=2026-07-19\u0026locationID=260\u0026childCode=1000005034\u0026showID=616105\u0026hallGroup="
+    },
+    {
+        "movie_title":  "The Odyssey",
+        "cinema_name":  "GSC 1 Utama",
+        "date":  "2026-07-19",
+        "time":  "8:30PM",
+        "format":  "2D - Digital 2D",
+        "booking_url":  "https://epaymentwebapp.gsc.com.my/seat-selection?parentID=5116\u0026oprndate=2026-07-19\u0026locationID=260\u0026childCode=1000005025\u0026showID=616065\u0026hallGroup="
+    },
+    {
+        "movie_title":  "The Odyssey",
+        "cinema_name":  "GSC 1 Utama",
+        "date":  "2026-07-19",
+        "time":  "9:00PM",
+        "format":  "2D - Digital 2D",
+        "booking_url":  "https://epaymentwebapp.gsc.com.my/seat-selection?parentID=5116\u0026oprndate=2026-07-19\u0026locationID=260\u0026childCode=1000005025\u0026showID=614818\u0026hallGroup="
+    },
+    {
+        "movie_title":  "The Odyssey",
+        "cinema_name":  "GSC 1 Utama",
+        "date":  "2026-07-19",
+        "time":  "9:15PM",
+        "format":  "2D - Digital 2D",
+        "booking_url":  "https://epaymentwebapp.gsc.com.my/seat-selection?parentID=5116\u0026oprndate=2026-07-19\u0026locationID=260\u0026childCode=1000005025\u0026showID=616115\u0026hallGroup="
+    },
+    {
+        "movie_title":  "The Odyssey",
+        "cinema_name":  "GSC 1 Utama",
+        "date":  "2026-07-19",
+        "time":  "10:25PM",
+        "format":  "2D - Digital 2D",
+        "booking_url":  "https://epaymentwebapp.gsc.com.my/seat-selection?parentID=5116\u0026oprndate=2026-07-19\u0026locationID=260\u0026childCode=1000005025\u0026showID=616106\u0026hallGroup="
+    },
+    {
+        "movie_title":  "The Odyssey",
+        "cinema_name":  "GSC HLB Prestige - 1 Utama (New Wing)",
+        "date":  "2026-07-19",
+        "time":  "8:45PM",
+        "format":  "PRESTIGE - PRESTIGE",
+        "booking_url":  "https://epaymentwebapp.gsc.com.my/seat-selection?parentID=5116\u0026oprndate=2026-07-19\u0026locationID=260\u0026childCode=1000005025\u0026showID=614822\u0026hallGroup=PRESTIGE_1U2"
+    },
+    {
+        "movie_title":  "(IMAX) The Odyssey",
+        "cinema_name":  "GSC IOI Mall Damansara (Formerly Tropicana Gardens Mall)",
+        "date":  "2026-07-19",
+        "time":  "8:45PM",
+        "format":  "IMAX - IMAX",
+        "booking_url":  "https://epaymentwebapp.gsc.com.my/seat-selection?parentID=5116\u0026oprndate=2026-07-19\u0026locationID=269\u0026childCode=1000005031\u0026showID=121581\u0026hallGroup="
+    },
+    {
+        "movie_title":  "(IMAX) The Odyssey",
+        "cinema_name":  "GSC IOI Mall Damansara (Formerly Tropicana Gardens Mall)",
+        "date":  "2026-07-20",
+        "time":  "12:10AM",
+        "format":  "IMAX - IMAX",
+        "booking_url":  "https://epaymentwebapp.gsc.com.my/seat-selection?parentID=5116\u0026oprndate=2026-07-20\u0026locationID=269\u0026childCode=1000005031\u0026showID=121582\u0026hallGroup="
+    },
+    {
+        "movie_title":  "(MX4D) The Odyssey",
+        "cinema_name":  "GSC IOI Mall Damansara (Formerly Tropicana Gardens Mall)",
+        "date":  "2026-07-19",
+        "time":  "8:05PM",
+        "format":  "MX4D - MX4D",
+        "booking_url":  "https://epaymentwebapp.gsc.com.my/seat-selection?parentID=5116\u0026oprndate=2026-07-19\u0026locationID=269\u0026childCode=1000005030\u0026showID=120905\u0026hallGroup="
+    },
+    {
+        "movie_title":  "(MX4D) The Odyssey",
+        "cinema_name":  "GSC IOI Mall Damansara (Formerly Tropicana Gardens Mall)",
+        "date":  "2026-07-19",
+        "time":  "11:30PM",
+        "format":  "MX4D - MX4D",
+        "booking_url":  "https://epaymentwebapp.gsc.com.my/seat-selection?parentID=5116\u0026oprndate=2026-07-19\u0026locationID=269\u0026childCode=1000005030\u0026showID=120906\u0026hallGroup="
+    },
+    {
+        "movie_title":  "The Odyssey",
+        "cinema_name":  "GSC IOI Mall Damansara (Formerly Tropicana Gardens Mall)",
+        "date":  "2026-07-19",
+        "time":  "8:30PM",
+        "format":  "PREMIERE - Premiere Class",
+        "booking_url":  "https://epaymentwebapp.gsc.com.my/seat-selection?parentID=5116\u0026oprndate=2026-07-19\u0026locationID=269\u0026childCode=1000005025\u0026showID=120902\u0026hallGroup="
+    },
+    {
+        "movie_title":  "The Odyssey",
+        "cinema_name":  "GSC IOI Mall Damansara (Formerly Tropicana Gardens Mall)",
+        "date":  "2026-07-19",
+        "time":  "8:45PM",
+        "format":  "2D - Digital 2D",
+        "booking_url":  "https://epaymentwebapp.gsc.com.my/seat-selection?parentID=5116\u0026oprndate=2026-07-19\u0026locationID=269\u0026childCode=1000005025\u0026showID=120898\u0026hallGroup="
+    },
+    {
+        "movie_title":  "The Odyssey",
+        "cinema_name":  "GSC IOI Mall Damansara (Formerly Tropicana Gardens Mall)",
+        "date":  "2026-07-19",
+        "time":  "9:30PM",
+        "format":  "2D - Digital 2D",
+        "booking_url":  "https://epaymentwebapp.gsc.com.my/seat-selection?parentID=5116\u0026oprndate=2026-07-19\u0026locationID=269\u0026childCode=1000005025\u0026showID=122089\u0026hallGroup="
+    },
+    {
+        "movie_title":  "The Odyssey",
+        "cinema_name":  "GSC IOI Mall Damansara (Formerly Tropicana Gardens Mall)",
+        "date":  "2026-07-19",
+        "time":  "9:55PM",
+        "format":  "ONYX - ONYX",
+        "booking_url":  "https://epaymentwebapp.gsc.com.my/seat-selection?parentID=5116\u0026oprndate=2026-07-19\u0026locationID=269\u0026childCode=1000005025\u0026showID=122091\u0026hallGroup="
+    },
+    {
+        "movie_title":  "The Odyssey",
+        "cinema_name":  "GSC IOI Mall Damansara (Formerly Tropicana Gardens Mall)",
+        "date":  "2026-07-19",
+        "time":  "11:55PM",
+        "format":  "PREMIERE - Premiere Class",
+        "booking_url":  "https://epaymentwebapp.gsc.com.my/seat-selection?parentID=5116\u0026oprndate=2026-07-19\u0026locationID=269\u0026childCode=1000005025\u0026showID=120903\u0026hallGroup="
+    },
+    {
+        "movie_title":  "(Big) The Odyssey",
+        "cinema_name":  "GSC The Starling Mall",
+        "date":  "2026-07-19",
+        "time":  "8:20PM",
+        "format":  "BIG - Big",
+        "booking_url":  "https://epaymentwebapp.gsc.com.my/seat-selection?parentID=5116\u0026oprndate=2026-07-19\u0026locationID=266\u0026childCode=1000005034\u0026showID=94740\u0026hallGroup="
+    },
+    {
+        "movie_title":  "The Odyssey",
+        "cinema_name":  "GSC The Starling Mall",
+        "date":  "2026-07-19",
+        "time":  "8:35PM",
+        "format":  "2D - Digital 2D",
+        "booking_url":  "https://epaymentwebapp.gsc.com.my/seat-selection?parentID=5116\u0026oprndate=2026-07-19\u0026locationID=266\u0026childCode=1000005025\u0026showID=93796\u0026hallGroup="
+    },
+    {
+        "movie_title":  "The Odyssey",
+        "cinema_name":  "GSC The Starling Mall",
+        "date":  "2026-07-19",
+        "time":  "8:50PM",
+        "format":  "PREMIERE - Premiere Class",
+        "booking_url":  "https://epaymentwebapp.gsc.com.my/seat-selection?parentID=5116\u0026oprndate=2026-07-19\u0026locationID=266\u0026childCode=1000005025\u0026showID=93800\u0026hallGroup="
+    },
+    {
+        "movie_title":  "The Odyssey",
+        "cinema_name":  "GSC The Starling Mall",
+        "date":  "2026-07-19",
+        "time":  "9:05PM",
+        "format":  "2D - Digital 2D",
+        "booking_url":  "https://epaymentwebapp.gsc.com.my/seat-selection?parentID=5116\u0026oprndate=2026-07-19\u0026locationID=266\u0026childCode=1000005025\u0026showID=94744\u0026hallGroup="
+    },
+    {
+        "movie_title":  "The Odyssey",
+        "cinema_name":  "GSC Paradigm Mall (Petaling Jaya)",
+        "date":  "2026-07-19",
+        "time":  "8:45PM",
+        "format":  "2D - Digital 2D",
+        "booking_url":  "https://epaymentwebapp.gsc.com.my/seat-selection?parentID=5116\u0026oprndate=2026-07-19\u0026locationID=268\u0026childCode=1000005025\u0026showID=262726\u0026hallGroup="
+    },
+    {
+        "movie_title":  "The Odyssey",
+        "cinema_name":  "GSC Paradigm Mall (Petaling Jaya)",
+        "date":  "2026-07-19",
+        "time":  "9:15PM",
+        "format":  "2D - Digital 2D",
+        "booking_url":  "https://epaymentwebapp.gsc.com.my/seat-selection?parentID=5116\u0026oprndate=2026-07-19\u0026locationID=268\u0026childCode=1000005025\u0026showID=263675\u0026hallGroup="
+    },
+    {
+        "movie_title":  "The Odyssey",
+        "cinema_name":  "GSC IOI Mall (Puchong)",
+        "date":  "2026-07-19",
+        "time":  "8:45PM",
+        "format":  "2D - Digital 2D",
+        "booking_url":  "https://epaymentwebapp.gsc.com.my/seat-selection?parentID=5116\u0026oprndate=2026-07-19\u0026locationID=253\u0026childCode=1000005025\u0026showID=338595\u0026hallGroup="
+    },
+    {
+        "movie_title":  "The Odyssey",
+        "cinema_name":  "GSC IOI Mall (Puchong)",
+        "date":  "2026-07-19",
+        "time":  "9:15PM",
+        "format":  "2D - Digital 2D",
+        "booking_url":  "https://epaymentwebapp.gsc.com.my/seat-selection?parentID=5116\u0026oprndate=2026-07-19\u0026locationID=253\u0026childCode=1000005025\u0026showID=338958\u0026hallGroup="
+    },
+    {
+        "movie_title":  "The Odyssey",
+        "cinema_name":  "GSC Summit USJ",
+        "date":  "2026-07-19",
+        "time":  "8:15PM",
+        "format":  "2D - Digital 2D",
+        "booking_url":  "https://epaymentwebapp.gsc.com.my/seat-selection?parentID=5116\u0026oprndate=2026-07-19\u0026locationID=250\u0026childCode=1000005025\u0026showID=313948\u0026hallGroup="
+    },
+    {
+        "movie_title":  "The Odyssey",
+        "cinema_name":  "GSC Summit USJ",
+        "date":  "2026-07-19",
+        "time":  "8:45PM",
+        "format":  "2D - Digital 2D",
+        "booking_url":  "https://epaymentwebapp.gsc.com.my/seat-selection?parentID=5116\u0026oprndate=2026-07-19\u0026locationID=250\u0026childCode=1000005025\u0026showID=312871\u0026hallGroup="
+    },
+    {
+        "movie_title":  "The Odyssey",
+        "cinema_name":  "GSC Summit USJ",
+        "date":  "2026-07-19",
+        "time":  "9:05PM",
+        "format":  "2D - Digital 2D",
+        "booking_url":  "https://epaymentwebapp.gsc.com.my/seat-selection?parentID=5116\u0026oprndate=2026-07-19\u0026locationID=250\u0026childCode=1000005025\u0026showID=313911\u0026hallGroup="
+    },
+    {
+        "movie_title":  "The Odyssey",
+        "cinema_name":  "GSC Subang Parade",
+        "date":  "2026-07-19",
+        "time":  "9:00PM",
+        "format":  "2D - Digital 2D",
+        "booking_url":  "https://epaymentwebapp.gsc.com.my/seat-selection?parentID=5116\u0026oprndate=2026-07-19\u0026locationID=251\u0026childCode=1000005025\u0026showID=69111\u0026hallGroup="
+    },
+    {
+        "movie_title":  "The Odyssey",
+        "cinema_name":  "GSC Subang Parade",
+        "date":  "2026-07-19",
+        "time":  "10:00PM",
+        "format":  "2D - Digital 2D",
+        "booking_url":  "https://epaymentwebapp.gsc.com.my/seat-selection?parentID=5116\u0026oprndate=2026-07-19\u0026locationID=251\u0026childCode=1000005025\u0026showID=69962\u0026hallGroup="
+    },
+    {
+        "movie_title":  "The Odyssey",
+        "cinema_name":  "GSC Setia City Mall",
+        "date":  "2026-07-19",
+        "time":  "8:45PM",
+        "format":  "2D - Digital 2D",
+        "booking_url":  "https://epaymentwebapp.gsc.com.my/seat-selection?parentID=5116\u0026oprndate=2026-07-19\u0026locationID=256\u0026childCode=1000005025\u0026showID=271289\u0026hallGroup="
+    },
+    {
+        "movie_title":  "The Odyssey",
+        "cinema_name":  "GSC Setia City Mall",
+        "date":  "2026-07-19",
+        "time":  "9:05PM",
+        "format":  "2D - Digital 2D",
+        "booking_url":  "https://epaymentwebapp.gsc.com.my/seat-selection?parentID=5116\u0026oprndate=2026-07-19\u0026locationID=256\u0026childCode=1000005025\u0026showID=272279\u0026hallGroup="
+    },
+    {
+        "movie_title":  "(IMAX) The Odyssey",
+        "cinema_name":  "GSC IOI City Mall 2 (East) (Putrajaya)",
+        "date":  "2026-07-19",
+        "time":  "8:45PM",
+        "format":  "IMAX - IMAX",
+        "booking_url":  "https://epaymentwebapp.gsc.com.my/seat-selection?parentID=5116\u0026oprndate=2026-07-19\u0026locationID=259\u0026childCode=1000005031\u0026showID=94036\u0026hallGroup="
+    },
+    {
+        "movie_title":  "(IMAX) The Odyssey",
+        "cinema_name":  "GSC IOI City Mall 2 (East) (Putrajaya)",
+        "date":  "2026-07-20",
+        "time":  "12:10AM",
+        "format":  "IMAX - IMAX",
+        "booking_url":  "https://epaymentwebapp.gsc.com.my/seat-selection?parentID=5116\u0026oprndate=2026-07-20\u0026locationID=259\u0026childCode=1000005031\u0026showID=94037\u0026hallGroup="
+    },
+    {
+        "movie_title":  "The Odyssey",
+        "cinema_name":  "GSC IOI City Mall 2 (East) (Putrajaya)",
+        "date":  "2026-07-19",
+        "time":  "7:50PM",
+        "format":  "2D - Digital 2D",
+        "booking_url":  "https://epaymentwebapp.gsc.com.my/seat-selection?parentID=5116\u0026oprndate=2026-07-19\u0026locationID=259\u0026childCode=1000005025\u0026showID=95545\u0026hallGroup="
+    },
+    {
+        "movie_title":  "The Odyssey",
+        "cinema_name":  "GSC IOI City Mall 2 (East) (Putrajaya)",
+        "date":  "2026-07-19",
+        "time":  "8:15PM",
+        "format":  "2D - Digital 2D",
+        "booking_url":  "https://epaymentwebapp.gsc.com.my/seat-selection?parentID=5116\u0026oprndate=2026-07-19\u0026locationID=259\u0026childCode=1000005025\u0026showID=95560\u0026hallGroup="
+    },
+    {
+        "movie_title":  "The Odyssey",
+        "cinema_name":  "GSC IOI City Mall 2 (East) (Putrajaya)",
+        "date":  "2026-07-19",
+        "time":  "11:15PM",
+        "format":  "2D - Digital 2D",
+        "booking_url":  "https://epaymentwebapp.gsc.com.my/seat-selection?parentID=5116\u0026oprndate=2026-07-19\u0026locationID=259\u0026childCode=1000005025\u0026showID=95544\u0026hallGroup="
+    },
+    {
+        "movie_title":  "The Odyssey",
+        "cinema_name":  "GSC IOI City Mall 2 (East) (Putrajaya)",
+        "date":  "2026-07-19",
+        "time":  "11:40PM",
+        "format":  "2D - Digital 2D",
+        "booking_url":  "https://epaymentwebapp.gsc.com.my/seat-selection?parentID=5116\u0026oprndate=2026-07-19\u0026locationID=259\u0026childCode=1000005025\u0026showID=95561\u0026hallGroup="
+    },
+    {
+        "movie_title":  "The Odyssey",
+        "cinema_name":  "GSC Premiere - IOI City Mall 2 (East)",
+        "date":  "2026-07-19",
+        "time":  "8:00PM",
+        "format":  "PREMIERE - Premiere Plus",
+        "booking_url":  "https://epaymentwebapp.gsc.com.my/seat-selection?parentID=5116\u0026oprndate=2026-07-19\u0026locationID=259\u0026childCode=1000005025\u0026showID=95401\u0026hallGroup=PMPLUS_IC2"
+    },
+    {
+        "movie_title":  "The Odyssey",
+        "cinema_name":  "GSC Premiere - IOI City Mall 2 (East)",
+        "date":  "2026-07-19",
+        "time":  "10:15PM",
+        "format":  "PREMIERE - Premiere Plus",
+        "booking_url":  "https://epaymentwebapp.gsc.com.my/seat-selection?parentID=5116\u0026oprndate=2026-07-19\u0026locationID=259\u0026childCode=1000005025\u0026showID=94041\u0026hallGroup=PMPLUS_IC2"
+    },
+    {
+        "movie_title":  "The Odyssey",
+        "cinema_name":  "GSC Premiere - IOI City Mall 2 (East)",
+        "date":  "2026-07-19",
+        "time":  "11:45PM",
+        "format":  "PREMIERE - Premiere Plus",
+        "booking_url":  "https://epaymentwebapp.gsc.com.my/seat-selection?parentID=5116\u0026oprndate=2026-07-19\u0026locationID=259\u0026childCode=1000005025\u0026showID=95402\u0026hallGroup=PMPLUS_IC2"
+    }
+]
