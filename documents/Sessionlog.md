@@ -1,1 +1,4 @@
 - 2026-07-19: scaffold data-acquisition spike workspace.
+- 2026-07-19: discovered and replayed GSC public XML showtime endpoints for Selangor sample data.
+- 2026-07-19: discovered and replayed TGV public JSON cinema/session endpoints for Selangor sample data.
+- 2026-07-19: recorded provider feasibility verdicts, replay notes, and normalized sample outputs.
