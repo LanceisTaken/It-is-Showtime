@@ -1,0 +1,1 @@
+- 2026-07-19: scaffold data-acquisition spike workspace.
