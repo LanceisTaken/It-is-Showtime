@@ -1,15 +1,15 @@
-## Documentation
+@AGENTS.md
 
-- Update Sessionlog.md as part of every commit — stage it in the same commit. List what the commit changed as concise bullet points. Keep it terse — no verbose prose.
-- Update Troubleshoot.md whenever a bug is fixed. Keep each entry concise: the problem, then the solution. No dates or timestamps.
+## Roles
 
-## Git Workflow
+- Codex writes all implementation code. Do not write or edit implementation code yourself.
+- Your role is to review Codex's output — read the diffs on each PR and check them against the standards in AGENTS.md.
+- Codex follows the workflow in AGENTS.md (branching, PRs, documentation). Review its work against those rules and flag anything that deviates.
 
-- Divide the project into phases. Create a phase branch off main for each phase.
-- For each task in a phase, create a task branch off the phase branch.
-- Commit all work for a task to its task branch.
-- When a task is complete, open a PR to merge the task branch into the phase branch. One PR per task.
-- After the task PR merges, delete the task branch locally.
-- When all tasks in a phase are complete, open a PR to merge the phase branch into main.
-- After the phase PR merges, delete the phase branch locally.
-- Use the gh CLI to open PRs. If gh is unavailable, stop and tell me rather than merging directly.
+## Superpowers / writing-plans
+- Plans must be extremely concise. Sacrifice grammar for brevity.
+- Prefer interface contracts + acceptance criteria over full function bodies or complete test code.
+- Do NOT paste full implementation code or full test files into the plan.
+- Skip repeating the TDD ceremony (write failing test → run → implement → run → commit) — the executing skills already enforce that.
+- Keep each task to files, signatures/contracts, and observable done-criteria only.
+- At the end of every plan, list any unresolved questions.

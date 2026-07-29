@@ -1,7 +1,17 @@
-# Project
+# Cinema Showtimes Aggregator
 
-<!-- Project overview goes here once tech stack is decided:
-     name, tech stack, what it does. -->
+Time-first web app aggregating Malaysian cinema showtimes (TGV + GSC first) into one dataset viewed by time, not location. Flow: state → movie → chronological list of every showing, each tagged with cinema + format, deep-linking to the chain's booking page.
+
+## Stack
+
+- Backend / DB: Supabase (Postgres) — `showings`, `cinemas`, `movies` tables; pgvector, pg_cron, storage bundled
+- Frontend / pipeline: TypeScript — frontend (React) + scraper as Vercel functions
+- Deploy: Vercel — frontend hosting + Cron for scheduled scrapes
+- DNS / edge: Cloudflare — DNS, caching, proxy, DDoS
+- Domain: Namecheap
+- Analytics: PostHog
+- Error tracking: Sentry — pipeline + app errors (a silently-dead scraper is the classic aggregator failure mode)
+- Poster storage: Supabase Storage
 
 ## Documentation
 
